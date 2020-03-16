@@ -80,9 +80,12 @@ For this example, download an example file at the following link: https://github
 ![Alt](/figures/Acceptance_Criteria.png "Acceptance Criteria for these specimens")
 
 
-#### Step 3: Interpreting data
+#### Step 3: Analyzing and Interpreting data Manually
 - To select an interpretation, in the temperatures section, select **start (lower T) and end (higher T) temperatures** using the two drop down boxes and Thellier_GUI will show you all criteria which your specimen passed in GREEN and all that failed in RED. Click on **Save** to save your current interpretation. If 2 or more specimens per site are successful they will appear in the plot for site data.
-Once you have gone through analyzing ALL your specimens you can skip to Step 5 of this tutorial.
+
+![Alt](/figures/Interpretation.png "Example of a successful interpretation")
+
+- Once you have gone through analyzing ALL your specimens you can skip to Step 5 of this tutorial.
 
 #### Step 3.1: Analyzing Data with Auto Interpreter
 - The Thellier Auto interpreter is a tool that automatically searches for interpretations that conform to our criteria, and selects the set of interpretations that minimizes the standard deviation at a site level.
