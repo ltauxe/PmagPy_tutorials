@@ -9,7 +9,7 @@ For this example, download an example file at the following link: https://github
  - **na_sw.thel** is SIO format and will have the following columns (a tab delimited file): specimen, treatment step (with XX.0, XXX.1, and XXX,2 being the zero field, in-field and pTRM check steps, respectively), CSD, Moment (in emu), Declination, Inclination, other info (date, temperature step, laboratory field, units…). [A handy tool on PmagPy to create a chart for your thellier experiment can be found at https://pmagpy.github.io/PmagPy_MagIC.html#chartmaker ]
  - In a text editor, open **Na_nw.cool** (same format as **na_sw.thel**) to check out the format for the **cooling rate experiment**.
  - Open **Na_sw.atrm** (same format as **na_sw.thel**) to check out the format for the **atrm experiment**. In this experiment, the decimal point after the temperature indicates a different field direction.
- - The data for this example come from (attribution)
+ - The data for this example come from https://doi.org/10.1029/2018GC007509
 
 #### Step 1: Importing Data
 
