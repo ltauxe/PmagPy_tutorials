@@ -1,7 +1,7 @@
 # Guide to Using Thellier GUI  with an example dataset
 
 #### Step 0:  Update/download Thellier_GUI standalone and example files
-- Go to EarthRef.org/PmagPy/cookbook and download the standalone (according to your Operating System). Follow the link and instructions (up to download the zip folder “pmag_GUI.4.2.39.app.zip” the folder name will change with new updates).
+- Go to https://pmagpy.github.io/PmagPy-docs/programs/pmag_gui.html  and download the standalone (according to your Operating System)
 
 - Once downloaded, move it to your new working directory. Then unpack the zip file and launch the pmag_gui app (You may need to update your operating system's security settings to authorize the opening of the app)
 For this example, download an example file at the following link: https://github.com/PmagPy/raw/master/data_files/Pmag_GUI/SIOfiles.zip
